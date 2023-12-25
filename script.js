@@ -1,4 +1,4 @@
-const words = ['Apple', 'Strawberry', 'Mango', 'Blackberry', 'Blueberry', 'Orange'];
+const words = ['apple', 'banana', 'cherry', 'dog', 'cat', 'elephant', 'forest', 'guitar', 'house', 'igloo', 'jellyfish', 'kangaroo', 'lemon', 'mountain', 'notebook', 'octopus', 'penguin', 'quokka', 'rainbow', 'sunflower', 'tiger', 'umbrella', 'violin', 'watermelon', 'xylophone', 'zebra', 'aeroplane', 'ballerina', 'butterfly', 'castle', 'dinosaur', 'eagle', 'flamingo', 'giraffe', 'helicopter', 'ice cream', 'jaguar', 'koala', 'lighthouse', 'mermaid', 'narwhal', 'ostrich', 'parrot', 'queen', 'raccoon', 'seashell', 'turtle', 'unicorn', 'volcano', 'whale', 'yeti', 'zucchini', 'antelope', 'broccoli', 'cactus', 'dolphin', 'emerald', 'firework', 'gorilla', 'hammock', 'iguana', 'jellybean', 'kiwi', 'lemonade', 'meadow', 'octagon', 'peacock', 'racquet', 'starfish', 'tambourine', 'x-ray', 'yak', 'apricot', 'blueberry', 'carrot', 'daffodil', 'egret', 'firefly', 'grape', 'hyacinth', 'jasmine', 'lavender', 'marigold', 'narcissus', 'pear', 'rose', 'tulip', 'violet', 'walnut'.];
 const hangmanGraphics = [
     `
      ------
